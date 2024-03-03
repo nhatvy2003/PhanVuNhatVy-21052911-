@@ -1,0 +1,47 @@
+.container {
+    width: 70%;
+    margin: 0px auto;
+    padding: 100px;
+
+    text-align: center;
+    background-color: silver
+}
+
+.container img {
+    width: 100px;
+}
+
+.container h1 {
+    font-size: 70px;
+}
+
+.container label {
+    margin-bottom: 30px;
+    display: block;
+    font-size: 30px;
+}
+
+.container input#email {
+    font-size: 30px;
+    text-align: left;
+
+    padding: 20px;
+    width: 500px;
+
+    border: none;
+    border-radius: 5px;
+}
+
+.container button {
+    display: block;
+    font-size: 20px;
+    color: white;
+    padding: 20px;
+    background-color: blue;
+    
+    width: 20%;
+    margin: 20px auto;
+
+    border: none;
+    border-radius: 5px;
+}

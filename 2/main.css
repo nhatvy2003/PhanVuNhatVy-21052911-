@@ -1,0 +1,21 @@
+h1 {
+    width: 60%;
+    margin: 0 auto;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.firstRow, .secondRow {
+    width: 40%;
+    margin: 20px auto;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.tags span {
+    font-size: 30px;
+    background-color: greenyellow;
+
+    padding: 15px 10px;
+}
